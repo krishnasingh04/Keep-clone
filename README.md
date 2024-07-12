@@ -30,7 +30,8 @@ A frontend-only note-taking app similar to Google Keep, built using React.js and
 - Use the toggle switch to switch between dark and light modes
 
 ## Dependencies
-There are no additional dependencies required for this project.
+React.js
+Boootstrap
 
 ## Code Overview
 
