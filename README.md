@@ -15,17 +15,13 @@ A frontend-only note-taking app similar to Google Keep, built using React.js and
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/google-keep-clone.git
+    git clone https://github.com/yourusername/keep-clone.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd google-keep-clone
+    cd keep-clone
     ```
-3. Install Bootstrap:
-    ```bash
-    npm install bootstrap
-    ```
-4. Open `index.html` in your browser to run the application.
+3. Open `index.html` in your browser to run the application.
 
 ## Usage
 - Use the form to create new notes
@@ -34,8 +30,7 @@ A frontend-only note-taking app similar to Google Keep, built using React.js and
 - Use the toggle switch to switch between dark and light modes
 
 ## Dependencies
-- React.js
-- Bootstrap CSS
+There are no additional dependencies required for this project.
 
 ## Code Overview
 
@@ -57,3 +52,8 @@ This component renders the list of notes. It maps over the notes array and rende
 ### App.css
 This file contains the CSS styles for the application, including styles for light and dark modes.
 
+## License
+This project is licensed under the MIT License.
+
+## Credits
+- [Krishna04](https://github.com/krishna04)
