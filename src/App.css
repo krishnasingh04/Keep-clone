@@ -1,0 +1,50 @@
+body.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+header {
+  padding: 1rem;
+}
+
+header.light {
+  background-color: var(--bs-light);
+  color: #000000;
+}
+
+header.dark {
+  background-color: var(--bs-dark);
+  color: #ffffff;
+}
+
+.card {
+  padding: 1rem;
+  color: #000000;
+}
+
+.card.light {
+  background-color: var(--bs-light);
+  color: #000000;
+}
+
+.card.dark {
+  background-color: var(--bs-dark);
+  color: #ffffff;
+}
+
+.btn-secondary {
+  color: #ffffff;
+}
+
+.btn-secondary.light {
+  color: var(--bs-dark);
+}
+
+.btn-secondary.dark {
+  color: var(--bs-light);
+}
