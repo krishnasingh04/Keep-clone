@@ -57,8 +57,3 @@ This component renders the list of notes. It maps over the notes array and rende
 ### App.css
 This file contains the CSS styles for the application, including styles for light and dark modes.
 
-## License
-This project is licensed under the MIT License.
-
-## Credits
-- [Your Name](https://github.com/yourusername)
